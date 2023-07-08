@@ -1,0 +1,29 @@
+{
+  "name": "openai-turbo1337",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "next": "latest",
+    "react": "latest",
+    "react-cookie": "^4.1.1",
+    "react-dom": "latest",
+    "react-markdown": "^8.0.7",
+    "react-syntax-highlighter": "^15.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17",
+    "@types/react": "latest",
+    "@types/react-syntax-highlighter": "^15.5.7",
+    "eslint": "^8.11.0",
+    "eslint-config-next": "^12.1.0",
+    "typescript": "^4.7.3"
+  }
+}
